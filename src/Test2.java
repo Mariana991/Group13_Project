@@ -3,5 +3,6 @@ public class Test2 {
         System.out.println("Testing log out or something");
 
         System.out.println("Do one more");
+        System.out.println("Hello");
     }
 }
